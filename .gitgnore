@@ -1,0 +1,40 @@
+# Ignore sensitive environment files
+.env
+*.env
+
+# Ignore composer dependencies if using composer
+/vendor/
+composer.lock
+
+# Ignore IDE files
+/.vscode/
+/.idea/
+/nbproject/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore cache and logs
+/logs/
+/cache/
+/*.log
+
+# Ignore uploaded files
+/uploads/
+/storage/
+
+# Ignore build or temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore node_modules if using frontend assets
+/node_modules/
+
+# Ignore PHPUnit test results
+.phpunit.result.cache
+
+# Ignore SASS or LESS compiled files
+/public/css/*.map
+/public/js/*.map
