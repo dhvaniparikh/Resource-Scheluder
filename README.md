@@ -43,32 +43,7 @@ The objective of this project is to provide a comprehensive approach towards man
 
 ---
 
-## 📊 Diagrams
 
-### 🔄 Data Flow Diagram
-- Level 0: Overall system.
-- Level 1: Admin, HR, Project Manager, and Employee workflows.
-
-### 🎭 Use Case Diagram
-- Covers all user roles with detailed interactions.
-
-### 📋 Activity Diagram
-- Illustrates the flow for each role.
-
-### 🔗 ER Diagram
-- Visual representation of the database schema.
-
----
-
-## 🚀 Snapshots
-
-- Login Page
-- Admin Dashboard
-- HR Management Portal
-- Project Manager Panel
-- Employee Interface
-
----
 
 ## ✅ Testing
 
@@ -89,17 +64,9 @@ The objective of this project is to provide a comprehensive approach towards man
 
 ## 🤝 Contributors
 
-- **Shukla Devanshi**
-- **Barot Vaibhavi**
-- **Chaudhari Twinkle**
-- **Chauhan Devanshi**
-- **Parikh Dhvani**
-
 Internal Guide: Asst. Prof. Twinkle Patel  
 Head of Department: Prof. Vijaysinh Jadeja  
 
 ---
 
-## 📅 Academic Year
 
-2024
